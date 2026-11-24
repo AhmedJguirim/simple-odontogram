@@ -1,0 +1,18 @@
+{
+  "name": "Chairside Dental Odontogram",
+  "short_name": "Odontogram",
+  "description": "Mobile-first reliable dental odontogram for dentists to track tooth status, restorations, and treatments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
